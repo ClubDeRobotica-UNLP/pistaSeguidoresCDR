@@ -6,15 +6,15 @@ El repositorio contiene los archivos utilizados para la fabricación de la pista
 
 ### Integrantes:
 
-| Integrante             | Tareas           			  		  |
-| -----------------------|:--------------------------------------:| 
-| **Germán Sc.		   **| Diseño.								  |
-| **Santiago R.		   **| Logística materiales y corte.      	  |
-| **Federico Raggio    **| Pintura, logística.					  |
-| **Danilo Parra       **| Pintura.								  |
-| **Francisco Quarin   **| Pintura.								  |
-| **Juan C. Scatuerchio**| Ensamblaje.							  |
-| **Lucas Martire      **| Ferretería.							  |
+| Integrante             | Tareas           			  		 |
+| -----------------------|:-----------------------------:| 
+| **Germán Sc.**         | Diseño.								       |
+| **Santiago R.**        | Logística materiales y corte. |
+| **Federico Raggio**    | Pintura, logística.					 |
+| **Danilo Parra**       | Pintura.								       |
+| **Francisco Quarin**   | Pintura.								       |
+| **Juan C. Scatuerchio**| Ensamblaje.							     |
+| **Lucas Martire**      | Ferretería.							     |
 
 ### Estado del proyecto:
 - [x] Tramos de pista diseñados.
@@ -30,13 +30,13 @@ En total hay 5 tipos de tramos:
 
 <center>
 
-| Tipo de tramo          | Dimensiones        			  		  			| Cantidad |
+| Tipo de tramo          | Dimensiones        			  		  			          | Cantidad |
 | -----------------------|:------------------------------------------------:|:--------:|
-| **Recto corto		   **| Ancho: 200 mm. Alto: 300 mm.			  			| **9**    |
-| **Recto largo  	   **| Ancho: 200 mm. Alto: 500 mm.      	 			| **9**    |
-| **Recto ancho  	   **| Ancho: 400 mm. Alto: 500 mm.      	  			| **1**    |
-| **Curva 1/2  	   	   **| Ancho: 200 mm. Curvatura (línea central): 300 mm.| **8**    |
-| **Curva 1/4  	   	   **| Ancho: 200 mm. Curvatura (línea central): 300 mm.| **9**	   |
+| **Recto corto**        | Ancho: 200 mm. Alto: 300 mm.			  			        | **9**    |
+| **Recto largo**        | Ancho: 200 mm. Alto: 500 mm.      	 			        | **9**    |
+| **Recto ancho**        | Ancho: 400 mm. Alto: 500 mm.      	  			      | **1**    |
+| **Curva 1/2**          | Ancho: 200 mm. Curvatura (línea central): 300 mm.| **8**    |
+| **Curva 1/4**          | Ancho: 200 mm. Curvatura (línea central): 300 mm.| **9**	   |
 
 <div style="text-align: left">
 
